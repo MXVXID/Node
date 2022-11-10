@@ -95,7 +95,10 @@ curl --header "Content-Type: application/json" \
 --data '{"denom":"unois","address":"'$NOIS_WALLET_ADDRESS'"}' \
 http://faucet.noislabs.com/credit
 ```
-Jika faucet error join ke discord mereka di sana ada faucet
+Jika faucet error join :
+<img src="https://user-images.githubusercontent.com/108946833/201040868-61a5cfb9-f39e-4fd1-a3a6-2c15c1b47424.png" width="30"/> <a href="https://discord.gg/s8N7fx4dzX" target="_blank">Discrod NOIS</a>
+Ada faucet di discord nya mereka
+
 
 ### Buat validator
 Sebelum membuat validator, pastikan Anda memiliki setidaknya 1 strd (1 strd sama dengan 1000000 unois) dan simpul Anda disinkronkan
