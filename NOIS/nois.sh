@@ -12,7 +12,7 @@ echo "==========================================================================
 
 
 echo -e '\e[33mNode :\e[35m'  Nois Testnet
-echo -e '\e[33mTelegram Channel :\e[35m' https://t.me/ssipalingtestnet
+echo -e '\e[33mgithub :\e[35m' https://github.com/MXVXID
 
 sleep 2
 
