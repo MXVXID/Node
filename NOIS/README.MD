@@ -28,7 +28,7 @@ Explorer:
 ## Auto_install script
 Copy Perintah Dibawah ini lalu buat nama validator jika di minta!
 ```
-wget -O noisd.sh https://raw.githubusercontent.com/MXVXID/Node/main/NOIS/noisd.sh && chmod +x noisd.sh && ./noisd.sh
+wget -O nois.sh https://raw.githubusercontent.com/MXVXID/Node/main/NOIS/nois.sh && chmod +x nois.sh && ./nois.sh
 ```
 
 ## Pasca instalasi
