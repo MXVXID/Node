@@ -95,6 +95,7 @@ curl --header "Content-Type: application/json" \
 --data '{"denom":"unois","address":"'$NOIS_WALLET_ADDRESS'"}' \
 http://faucet.noislabs.com/credit
 ```
+Jika faucet error join ke discord mereka di sana ada faucet
 
 ### Buat validator
 Sebelum membuat validator, pastikan Anda memiliki setidaknya 1 strd (1 strd sama dengan 1000000 unois) dan simpul Anda disinkronkan
