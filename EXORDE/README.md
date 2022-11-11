@@ -30,6 +30,14 @@ git clone https://github.com/exorde-labs/ExordeModuleCLI.git
 
 Install
 
+Edit localConfig.json version 1.3.1 ganti 1.3.2
+```
+cd ExordeModuleCLI
+nano localConfig.json 
+Jika sudah jangan lupa save CTRL  X Y ENTER
+```
+Lanjut Build
+
 ```
 cd ExordeModuleCLI
 docker build -t exorde-cli .
@@ -49,13 +57,9 @@ Contoh:
 
 docker run -it exorde-cli -m 0x0000000000000000000000000000000000DEAD -l 2
 
-DONE
-
-
 Tonton
 Di tunggu bisa, close juga bisa….
 Gunakan CTRL+A+D untuk close, untuk cek kembali gunakan
 ```
 screen -Rd exorde
 ```
-
