@@ -35,8 +35,9 @@ Edit localConfig.json version 1.3.1 ganti 1.3.2
 cd ExordeModuleCLI
 nano localConfig.json 
 ```
-Jika sudah jangan lupa save CTRL  X Y ENTER
-```
+
+Jika sudah jangan lupa SAVE CTRL  X Y ENTER
+
 Lanjut Build
 
 ```
