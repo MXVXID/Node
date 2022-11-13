@@ -21,7 +21,7 @@ Berikut adalah persyaratan **minimum** untuk menjalankan node Aleo:
 # Instal Otomatis Bro
 
 ```
-wget -O prover.sh https://raw.githubusercontent.com/bangpateng/Aleo-Prover/main/prover.sh && chmod +x prover.sh && ./prover.sh
+wget -O prover.sh https://raw.githubusercontent.com/MXVXID/Node/main/ALEO-Prover/prover.sh && chmod +x prover.sh && ./prover.sh
 ```
 
 Biarkan Instalisasi Selesai Lama Kudu Sabar
