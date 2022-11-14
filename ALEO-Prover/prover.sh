@@ -2,15 +2,17 @@
 clear
 echo "==================================================================="
 echo -e "\e[92m"
-echo  "   __  __  __  __ __     __ __  __         ";
-echo  "  |  \/  | \ \/ / \ \   / / \ \/ /          ";
-echo  "  | |\/| |  \  /   \ \ / /   \  /           ";
-echo  "  | |  | |  /  \    \ V /    /  \             ";
-echo  "  |_|  |_| /_/\_\    \_/    /_/\_\           ";
+echo  "    __  ____  ____     ____  __   ";
+echo  "   |  \/  \ \/ /\ \   / /\ \/ / ";
+echo  "   | |\/| |\  /  \ \ / /  \  / ";
+echo  "   | |  | |/  \   \ V /   /  \     ";
+echo  "   |_|  |_/_/\_\   \_/   /_/\_\    ";
+echo  "         CPU MENJERIT  ";
 echo -e "\e[0m"
 echo "===================================================================" 
 
-echo -e '\e[36mGitHub :\e[39m' https://github.com/MXVXID
+echo -e '\e[36mGarapan :\e[39m' Aleo Prover Testnet
+echo -e '\e[36mGithub :\e[39m' https://github.com/MXVXID
 echo -e '\e[36mWebsite :\e[39m' www.mxvx.my.id
 
 sleep 2
